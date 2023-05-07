@@ -27,7 +27,93 @@
     width: 150px;
 }
 .primary-btn-title{
-    color:lime;
-    font-weight: 500;
-    font-family: Arial;
+    font-size: 20px;
+}
+.donate-today{
+    text-align: center;
+    margin-top: 90px;
+}
+.donate-title{
+    font-size: 50px;
+    color: chocolate;
+}
+.donate-description{
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+    color: lightslategrey;
+}
+.btn-first{
+    height: 90px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: bisque;
+}
+.btn-second{
+    height: 90px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: darkkhaki;
+}
+.btn-third{
+    height: 90px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: lightgrey;
+}
+.btn-fourth{
+    height: 90px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: darkseagreen;
+}
+.btn-fifth{
+    height: 90px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color:khaki;
+}
+.btn-first:hover{
+    color: green;
+}
+.btn-second:hover{
+    color: green;
+}
+.btn-third:hover{
+    color: green;
+}
+.btn-fourth:hover{
+    color: green;
+}
+.btn-fifth:hover{
+    color: green;
+}
+
+.other-title{
+    font-size: 20px;
+    color:gray;
+    margin-top: 70px;
+}
+ hr{
+    width: 400px;
+}
+.second-btn{
+    background-color: lightsalmon;
+    border: 3px solid black;
+    border-radius: 10px;
+    height: 70px;
+    width: 150px;
+}
+.second-btn-title{
+    color: whitesmoke;
 }
