@@ -1,0 +1,33 @@
+.Bac-picture{
+    background: url("../Asset/image/1.jpg");
+    height: 600px;
+}
+.front{
+    text-align: center;
+    padding-top: 150px;
+}
+.front-title{
+    color:white;
+    font-size: 40px;
+    padding: 2px 350px;
+}
+.w-need{
+    color:yellow;
+}
+.front-descript{
+    color:yellow;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 30px;
+}
+.primary-btn{
+    background-color: lightsalmon;
+    border-radius: 10px;
+    height: 70px;
+    width: 150px;
+}
+.primary-btn-title{
+    color:lime;
+    font-weight: 500;
+    font-family: Arial;
+}
