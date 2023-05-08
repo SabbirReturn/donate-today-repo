@@ -25,6 +25,11 @@
     border-radius: 10px;
     height: 70px;
     width: 150px;
+    border: none;
+}
+.primary-btn:hover{
+    background-color: lightgreen;
+    color: black;
 }
 .primary-btn-title{
     font-size: 20px;
@@ -113,7 +118,179 @@
     border-radius: 10px;
     height: 70px;
     width: 150px;
+    color: whitesmoke;
+    border-radius: 10px;
+    border: none;
+}
+.second-btn:hover{
+    background-color: lightgreen;
+    color: black;
 }
 .second-btn-title{
-    color: whitesmoke;
+    /* color: whitesmoke; */
 }
+.our-donate-plan{
+    text-align: center;
+    margin-top: 100px;
+}
+.our-donate-plan-title{
+    font-size: 40px;
+}
+.our-donate-plan-description{
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+    color: lightslategrey;
+}
+.need{
+    display: flex;
+    margin-top: 60px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+    
+}
+.food{
+    margin-right: 30px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+.icon{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.icon-title{
+    margin-left: 20px;
+}
+.shelter{
+    margin-right: 30px;
+    background-color: lightpink;
+    border-radius: 10px;
+}
+.Education{
+    margin-right: 30px;
+    background-color: lightskyblue;
+    border-radius: 10px;
+}
+.icon-description{
+    padding-left: 20px;
+    padding-right: 20px ;
+}
+.donation-title-description-btn-img{
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.donation{
+    display: flex;
+}
+.your-donation{
+    margin-right: 35px;
+}
+.your-donation-title{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+.your-donation-description{
+    color: lightslategrey;
+}
+.third-btn{
+    margin-top: 30px;
+    width: 300px;
+    height: 70px;
+    background-color: chocolate;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.third-btn:hover{
+    background-color: lightgreen;
+    color: black;
+}
+.third-btn-title{
+    /* color: wheat; */
+}
+.jpg-style{
+    width: 500px;
+    height: 400px;
+}
+.survive{
+    margin-top: 100px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.survive-syle{
+    display: flex;
+}
+.png-style{
+    width: 500px;
+    height: 350px;
+}
+.survive-title-description-btn{
+    margin-left: 35px;
+}
+.survive-title{
+    font-size: 30px;
+    text-align: center;
+}
+.survive-title-description{
+    color: lightslategrey;
+    text-align: center;
+}
+.fourth-btn{
+    width: 300px;
+    height: 70px;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin-left: 60px;
+    border: none;
+    color: aliceblue; 
+}
+.fourth-btn:hover{
+    background-color: lightgreen;
+    color: black;
+}
+.fourth-btn-title{
+    /* color: aliceblue;    */
+}
+.Update{
+    text-align: center;
+    margin-top: 100px ;
+}
+.update-title{
+    font-size: 30px;
+}
+.update-description{
+    color: lightslategrey;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: 90px;
+}
+.email{
+    background-color: lemonchiffon;
+    height: 150px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.email-title{
+    margin-top: 75px; 
+    height: 30px;
+    width: 300px;
+    background-color:lavender;
+    border: none;
+    border-radius: 5px;
+}
+.fifth-btn{
+    height: 35px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    background-color: indianred;
+    color: white;
+}
+.fifth-btn:hover{
+    background-color: lightgreen;
+    color: black;
+}
+  
